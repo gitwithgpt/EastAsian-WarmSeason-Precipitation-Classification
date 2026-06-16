@@ -1,0 +1,5 @@
+cluster_id,sample_count,dominant_features,secondary_features,naming_keywords
+0,2303779,zka_max_height(+1.73z); dfr_max_height(+1.71z); free_bottom_height(-1.23z),slope_zka(-0.95z); slope_dfr(+0.95z),zka_max_height偏高 / dfr_max_height偏高 / free_bottom_height偏低 / slope_zka偏低
+1,2810153,zku_max_height(+1.66z); heightBB(+1.54z); bb_thickness(-1.54z),dfr_max(+1.09z); slope_zku(+0.80z),zku_max_height偏高 / 融化层偏高 / 亮带较弱 / 峰值粒径信号偏粗
+2,1132609,nw_column_max(-1.72z); dfr_ns(+1.71z); dm_column_max(+1.68z),precipRateNearSurface(+1.67z); zku_ns(+1.66z),粒子浓度偏低 / 近地粒径信号偏粗 / 大粒子偏多 / 降水率偏强
+3,3372352,slope_zku(-1.71z); lpl(-1.61z); dfr_max(-1.57z),free_bottom_height(+1.53z); slope_dfr(-1.49z),slope_zku偏低 / 液相层偏薄 / 峰值粒径信号偏细 / free_bottom_height偏高

@@ -1,0 +1,49 @@
+# Git ignore rules
+
+# Large data files
+*.npz
+*.npy
+!data/Z_matrix.npy
+*.h5
+*.hdf5
+*.nc
+*.grib
+*.grb
+
+# Raw data directories (too large for GitHub)
+data/raw/
+data/matched_nearest/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Large figure vector files (optional; keep PNG/PDF)
+*.svg
+*.eps
+*.tif
